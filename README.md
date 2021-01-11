@@ -1,2 +1,2 @@
 # Lua-tests
- my personal Lua test that i use to learn to code
+ my personal Lua tests that i use to learn to code
