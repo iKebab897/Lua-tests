@@ -1,3 +1,4 @@
+--some random test
 print("hello world!")
 
 io.write("Hello world, from ",_VERSION,"!\n") --esempio di token
