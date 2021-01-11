@@ -1,3 +1,4 @@
+--a template for closing a script
 print("type ok and press enter to close this window")
 for i=1, 100, 1 do
     local fine = io.read()
