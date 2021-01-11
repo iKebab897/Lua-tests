@@ -1,4 +1,4 @@
---calcolatrice semplice
+--simple calculator
 print("type which operation you want to do (sum, difference, multiplication, division)")
 local operation = io.read()
 if operation == "sum" then
