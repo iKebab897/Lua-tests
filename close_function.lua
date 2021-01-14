@@ -1,5 +1,5 @@
 -- a function for closing a script
-function close.cls()
+local function cls()
     print("type ok and press enter to close this window")
     for i=1, 100, 1 do
         local fine = io.read()
@@ -22,6 +22,4 @@ function close.cls()
         end
     end
 end
-function close.cls1()
-    print("ciao")
-end
+cls()
