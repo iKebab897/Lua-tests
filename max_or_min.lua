@@ -1,5 +1,4 @@
 --this program tests if the first input is equal, higher or lower than the second one
-
 function max_or_min()
     print("type the value for x and y (first x then y)")
     local x, y = io.read("*n","*n")
