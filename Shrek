@@ -1,0 +1,3 @@
+local Shrek = {}
+
+Shrek.Bellezza = math.huge()
